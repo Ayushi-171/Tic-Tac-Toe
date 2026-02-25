@@ -3,7 +3,7 @@
 A timeless classic brought to life with code. The game that everyone knows, now playable in your browser.
 
 🎮 Play Now
-Jump right in and challenge yourself! Play the live demo here
+Jump right in and challenge yourself! [Play the live demo here](https://ayushi-171.github.io/Tic-Tac-Toe/)
 
 📖 About This Project
 This is a fully functional Tic-Tac-Toe game built from scratch by following YouTube tutorials. It's a perfect blend of simplicity and interactivity—featuring a clean interface and smooth gameplay that works straight in your browser.
@@ -28,7 +28,7 @@ Quick match tracking to keep score
 
 🚀 Getting Started
 Playing Online
-The easiest way to play is to visit the live demo. No installation needed!
+The easiest way to play is to visit the [live demo](https://ayushi-171.github.io/Tic-Tac-Toe/). No installation needed!
 Playing Locally
 Want to run it on your machine?
 
