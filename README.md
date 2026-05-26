@@ -9,7 +9,7 @@ Jump right in and challenge yourself! **[Play the live demo here](https://ayushi
 
 ## 📖 About This Project
 
-This is a fully functional Tic-Tac-Toe game built from scratch by following YouTube tutorials. It's a perfect blend of simplicity and interactivity—featuring a clean interface and smooth gameplay that works straight in your browser.
+This is a fully functional Tic-Tac-Toe game. It's a perfect blend of simplicity and interactivity—featuring a clean interface and smooth gameplay that works straight in your browser.
 
 Whether you're looking to pass a few minutes or test your strategic thinking, this game delivers the nostalgia of the classic pencil-and-paper experience in a digital format.
 
