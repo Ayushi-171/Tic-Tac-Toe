@@ -1,84 +1,64 @@
-# ♟️ Tic-Tac-Toe
+# ❌⭕ Tic Tac Toe
 
-> A timeless classic brought to life with code. The game that everyone knows, now playable in your browser.
+> A classic two-player Tic Tac Toe game built with vanilla 
+> JavaScript — with complete win detection and draw logic.
 
-## 🎮 Play Now
-Jump right in and challenge yourself! **[Play the live demo here](https://ayushi-171.github.io/Tic-Tac-Toe/)**
+## 🌐 Live Demo
 
----
-
-## 📖 About This Project
-
-This is a fully functional Tic-Tac-Toe game. It's a perfect blend of simplicity and interactivity—featuring a clean interface and smooth gameplay that works straight in your browser.
-
-Whether you're looking to pass a few minutes or test your strategic thinking, this game delivers the nostalgia of the classic pencil-and-paper experience in a digital format.
+**[Play the game →](https://ayushi-171.github.io/Tic-Tac-Toe/)**
 
 ---
 
-## 🛠️ What's Inside
+## 📖 About
 
-- **index.html** — The game board and UI structure
-- **game.js** — The game logic and interactivity
-- **TTTgame.css** — Styling that brings the game to life
-- **seeDemo.md** — Documentation and notes about the project
+A fully functional browser-based Tic Tac Toe game for two players.
+Built entirely with vanilla JavaScript — no frameworks, no 
+libraries. Focused on writing clean game logic, managing turn-based 
+state, and handling all win/draw conditions correctly.
+
+---
+
+## 🛠️ Tech Stack
+
+- **JavaScript (ES6+)** — Game logic, state management, DOM updates
+- **HTML5** — Game board structure
+- **CSS3** — Board layout, styling, responsive design
 
 ---
 
 ## ✨ Features
 
-- Simple, intuitive user interface
-- Two-player gameplay
-- Real-time game state updates
-- Responsive design that works on different screen sizes
-- Quick match tracking to keep score
-
-
----
-
-## 💡 How It Works
-
-The game board is a 3x3 grid where two players take turns marking spaces. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the match. If all nine spaces are filled without a winner, the game ends in a draw.
+- Two-player turn-based gameplay (X and O)
+- Win detection across all rows, columns, and diagonals
+- Draw detection when board is full
+- Visual indicator for current player's turn
+- Restart/reset button to play again
 
 ---
 
-## 🎓 Learning Journey
+## 📁 Project Structure
 
-This project was built by following YouTube tutorials on web development. It's a great example of:
-- DOM manipulation with JavaScript
-- Event handling and user interaction
-- Game logic implementation
-- CSS styling and layout
-
----
-
-## 📝 License
-
-This project is open source and available for anyone to use, modify, and share. Feel free to fork it, improve it, or use it as a learning resource!
+```
+├── index.html      # Game board structure
+├── game.js         # All game logic — turns, win/draw detection
+└── TTTgame.css     # Styling and board layout
+```
 
 ---
 
-## 🤝 Contributing
+## 💡 What This Demonstrates
 
-Found a bug? Have a cool idea for an improvement? Contributions are welcome! Feel free to:
-- Open an issue to report bugs
-- Submit a pull request with enhancements
-- Share your ideas for new features
-
----
-
-## 🎯 Next Level Ideas
-
-Want to expand this project? Here are some ideas:
-- Add AI opponent (easy, medium, hard difficulty)
-- Implement a score tracking system
-- Add game animations and sound effects
-- Create a mobile app version
-- Add multiplayer online functionality
+- Writing conditional logic for win/draw detection
+- Turn-based state management without any framework
+- DOM manipulation for real-time UI updates
+- Event-driven programming with click handlers
+- Building a complete, playable app in vanilla JavaScript
 
 ---
 
-## 👤 Created By
+## 👤 Built By
 
-**Ayushi-171**
-
-Enjoy the game! 🎮
+**Ayushi Swami** —
+[Portfolio](https://ayushi-171.github.io/My_Portfolio/) ·
+[GitHub](https://github.com/Ayushi-171) ·
+[LinkedIn](https://linkedin.com/in/ayushi-swami-aayu)
