@@ -39,9 +39,8 @@ state, and handling all win/draw conditions correctly.
 ## 📁 Project Structure
 
 ```
-├── index.html      # Game board structure
-├── game.js         # All game logic — turns, win/draw detection
-└── TTTgame.css     # Styling and board layout
+├── index.html      # Complete app — structure, game logic, and styling
+└── README.md
 ```
 
 ---
